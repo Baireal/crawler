@@ -1,7 +1,5 @@
 # crawler
 
-python
-
 about bitcoin
 
 ## bitcoin address-entity
