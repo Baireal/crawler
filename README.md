@@ -16,7 +16,7 @@ top-100-richest-bitcoin-addresses
 
 ## transaction data
  
-USDT
+USDT(omni,eth)
  
 bitcoin 
 
